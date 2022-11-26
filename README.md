@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddfx&label=Profile%20views&color=0e75b6&style=flat" alt="siddfx" /> </p>
 
-- 🔭 I’m currently working on **enumuration**
+- 🔭 I’m currently working on **ETHICAL HACKING**
 
 - 🌱 I’m currently learning **cyber security**
 
