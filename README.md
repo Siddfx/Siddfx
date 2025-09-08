@@ -3,7 +3,7 @@
 🎓 Master’s Student in **Cybersecurity** @ University of North Carolina at Charlotte  
 🔐 Passionate about **Digital Forensics | Penetration Testing | Threat Analysis | Network Security**  
 💻 Building projects in **Secure Coding, Malware Analysis, and Cyber Defense**  
-📫 Reach me: [Email](mailto:svijayap@charlotte.edu) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Siddfx)  
+📫 Reach me: [Email](mailto:svijayap@charlotte.edu) | [LinkedIn](https://www.linkedin.com/in/sidharth-mahadev-vijayaprakash-943966255/) | [GitHub](https://github.com/Siddfx)  
 
 ---
 
